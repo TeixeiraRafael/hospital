@@ -3,3 +3,5 @@
     echo "Connected to MySQL<br />";
 
     echo "Should I try to learn vim in the process?";
+
+    echo "<br>Well...<br>Why the hell not?";
